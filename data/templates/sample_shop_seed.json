@@ -1,0 +1,10 @@
+{
+  "catalog": "default",
+  "items": [
+    { "className": "AKM", "displayName": "AKM", "category": "Weapons", "price": 2500 },
+    { "className": "Ammo_762x39", "displayName": "7.62x39 Ammo", "category": "Ammo", "price": 150 },
+    { "className": "MountainBag_Blue", "displayName": "Mountain Bag (Blue)", "category": "Clothing", "price": 400 },
+    { "className": "Bandage", "displayName": "Bandage", "category": "Medical", "price": 50 },
+    { "className": "NailBox", "displayName": "Nail Box", "category": "Building", "price": 300 }
+  ]
+}
